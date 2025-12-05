@@ -1,0 +1,1 @@
+ALTER TABLE "mock_interviews" ALTER COLUMN "user_id" SET NOT NULL;
